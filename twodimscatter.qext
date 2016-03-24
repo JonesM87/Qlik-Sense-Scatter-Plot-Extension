@@ -1,0 +1,11 @@
+{
+	"name" : "MJ Enhanced Scatter",
+	"description" : "Scatter plot with additional colour dimension",
+	"icon" : "table",
+	"type" : "visualization",
+	"version": "1.0",
+	"author" : "Mark Jones",
+	"keywords" : "qlik-sense, visualization",
+	"preview" : "table"
+
+}

@@ -1,0 +1,20 @@
+.qv-object-twodimscatter div.qv-object-content-container {
+	color: #000;
+}
+ 
+.qv-object-twodimscatter .axis path,
+.qv-object-twodimscatter .axis line {
+  fill: none;
+  stroke: #d0d0d0;
+  shape-rendering: crispEdges;
+}
+ 
+.qv-object-twodimscatter .dot {
+  stroke: #333333;
+  stroke-width: 0.5px;
+}
+
+.qv-object-twodimscatter .legend{
+	stroke: #666;
+	stroke-width: 0.5px;
+}
